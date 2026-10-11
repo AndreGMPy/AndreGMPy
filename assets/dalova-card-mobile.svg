@@ -4,9 +4,9 @@
 <defs><linearGradient id="bg"><stop stop-color="#101b2b"/><stop offset="1" stop-color="#0b111c"/></linearGradient></defs>
 <rect x="1" y="1" width="638" height="308" rx="18" fill="url(#bg)" stroke="#34465e"/>
 <path d="M1 28v254" stroke="#67e8f9" stroke-width="3"/>
-<text x="38" y="49" fill="#67e8f9" font-family="Consolas,monospace" font-size="20" letter-spacing="1">FEATURED PRODUCT / 01</text>
+<text x="70" y="49" fill="#67e8f9" font-family="Consolas,monospace" font-size="20" letter-spacing="1">FEATURED PRODUCT / 01</text>
 <text x="33" y="143" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="700" letter-spacing="-3">DALOVA</text>
 <text x="38" y="195" fill="#d3deeb" font-family="Arial,Helvetica,sans-serif" font-size="29">Software para negocios y retail.</text>
 <path d="M38 224H602" stroke="#34465e"/>
 <text x="38" y="270" fill="#b1c0d3" font-family="Arial,Helvetica,sans-serif" font-size="25">Point of Sale · Inventario · IA</text>
-</svg>
+<g transform="translate(38 32)" fill="none" stroke="#67e8f9" stroke-width="1.5"><rect width="18" height="18" rx="4"/><path d="M5 4v10h4a5 5 0 0 0 0-10Z"/></g></svg>
