@@ -4,12 +4,12 @@
 </picture>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#currently-building">Currently Building</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
-  <a href="#current-focus">Current Focus</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#-about">About</a> ·
+  <a href="#-currently-building">Currently Building</a> ·
+  <a href="#-projects">Projects</a> ·
+  <a href="#-tech-stack">Tech Stack</a> ·
+  <a href="#-current-focus">Current Focus</a> ·
+  <a href="#-contact">Contact</a>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/section-about.svg" width="24" height="24" alt=""> About
