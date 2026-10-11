@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">DALOVA — Software para negocios y retail</title>
+<desc id="desc">Point of Sale, inventario e inteligencia artificial. Proyecto principal de Brandon André Gordillo.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101b2b"/><stop offset="1" stop-color="#0b111c"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#bg)" stroke="#34465e"/>
+<path d="M1 28v244" stroke="#67e8f9" stroke-width="3"/>
+<text x="52" y="51" fill="#67e8f9" font-family="Consolas,monospace" font-size="17" letter-spacing="2">FEATURED PRODUCT / 01</text>
+<text x="48" y="140" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="700" letter-spacing="-3">DALOVA</text>
+<text x="52" y="193" fill="#d3deeb" font-family="Arial,Helvetica,sans-serif" font-size="30">Software para negocios y retail.</text>
+<text x="52" y="249" fill="#b1c0d3" font-family="Arial,Helvetica,sans-serif" font-size="23">Point of Sale · Inventario · Inteligencia artificial</text>
+<g transform="translate(892 56)" fill="none" stroke="#4d657f" stroke-width="2">
+  <rect width="244" height="184" rx="12" fill="#101b2b"/>
+  <path d="M0 32h244M54 32v152"/>
+  <path d="M16 51h20m-20 18h20m-20 18h20" stroke="#67e8f9" stroke-linecap="round"/>
+  <rect x="72" y="51" width="64" height="38" rx="5" stroke="#67e8f9"/>
+  <rect x="150" y="51" width="76" height="38" rx="5" stroke="#818cf8"/>
+  <path d="M72 153v-30m28 30v-45m28 45v-23m28 23v-60m28 60v-35m28 35v-53" stroke="#67e8f9" stroke-width="9" stroke-linecap="round"/>
+</g>
+</svg>

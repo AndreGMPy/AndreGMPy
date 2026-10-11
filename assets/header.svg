@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Brandon André Gordillo — Software Developer · Data &amp; AI Engineering</title>
+<desc id="desc">Building software from idea to production. DALOVA, SaaS, AI and business software.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1522"/><stop offset="1" stop-color="#090d14"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#1d293b" stroke-width="1"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="418" rx="20" fill="url(#bg)" stroke="#263448"/>
+<rect x="820" y="1" width="360" height="418" fill="url(#grid)" opacity=".45"/>
+<path d="M64 46h40" stroke="#67e8f9" stroke-width="3"/>
+<text x="118" y="52" fill="#b1c0d3" font-family="Consolas,monospace" font-size="17" letter-spacing="2">ANDREGMPY / ENGINEERING</text>
+<text x="64" y="124" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" letter-spacing="-1">BRANDON ANDRÉ GORDILLO</text>
+<text x="66" y="170" fill="#b1c0d3" font-family="Arial,Helvetica,sans-serif" font-size="26">Software Developer · Data &amp; AI Engineering</text>
+<text x="64" y="247" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="600" letter-spacing="-1">Building software</text>
+<text x="64" y="296" fill="#67e8f9" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="600" letter-spacing="-1">from idea → production.</text>
+<path d="M64 335H760" stroke="#263448"/>
+<text x="64" y="373" fill="#b1c0d3" font-family="Consolas,monospace" font-size="18">DALOVA · SaaS · AI · Business Software</text>
+<g transform="translate(860 108)" fill="none">
+  <rect x="0" y="0" width="272" height="210" rx="16" fill="#101b2b" stroke="#34465e"/>
+  <path d="M0 44H272" stroke="#34465e"/>
+  <circle cx="22" cy="22" r="4" fill="#67e8f9"/><circle cx="38" cy="22" r="4" fill="#818cf8"/><circle cx="54" cy="22" r="4" fill="#34465e"/>
+  <path d="m76 80-33 36 33 36m120-72 33 36-33 36m-45-82-30 92" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 185H94m15 0h24" stroke="#34465e" stroke-width="5" stroke-linecap="round"/>
+  <path d="M272 118h24v122h-148" stroke="#4d657f" stroke-dasharray="5 6"/>
+  <circle cx="148" cy="240" r="5" fill="#67e8f9"/>
+</g>
+</svg>

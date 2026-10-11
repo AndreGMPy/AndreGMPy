@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="470" viewBox="0 0 640 470" role="img" aria-labelledby="title desc">
+<title id="title">Brandon André Gordillo — Software Developer · Data &amp; AI Engineering</title>
+<desc id="desc">Building software from idea to production. DALOVA, SaaS, AI and business software.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1522"/><stop offset="1" stop-color="#090d14"/></linearGradient></defs>
+<rect x="1" y="1" width="638" height="468" rx="20" fill="url(#bg)" stroke="#263448"/>
+<path d="M38 43h28" stroke="#67e8f9" stroke-width="3"/>
+<text x="80" y="49" fill="#b1c0d3" font-family="Consolas,monospace" font-size="19" letter-spacing="1">ANDREGMPY / ENGINEERING</text>
+<text x="38" y="112" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1">BRANDON ANDRÉ</text>
+<text x="38" y="164" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1">GORDILLO</text>
+<text x="38" y="218" fill="#b1c0d3" font-family="Arial,Helvetica,sans-serif" font-size="27">Software Developer</text>
+<text x="38" y="255" fill="#b1c0d3" font-family="Arial,Helvetica,sans-serif" font-size="27">Data &amp; AI Engineering</text>
+<text x="38" y="319" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="600" letter-spacing="-1">Building software</text>
+<text x="38" y="365" fill="#67e8f9" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="600" letter-spacing="-1">from idea → production.</text>
+<path d="M38 398H602" stroke="#263448"/>
+<text x="38" y="435" fill="#b1c0d3" font-family="Arial,Helvetica,sans-serif" font-size="23">DALOVA · SaaS · AI · Business Software</text>
+<g transform="translate(521 113)" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m15 0-15 16 15 16m43-32 15 16-15 16M42-4 29 37"/></g>
+</svg>
