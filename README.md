@@ -1,80 +1,87 @@
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/header-mobile.svg">
-  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/header.svg" alt="Brandon André Gordillo — Software Developer · Data & AI Engineering. Building software from idea → production. DALOVA · SaaS · AI · Business Software." width="100%">
+  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/header.svg" alt="Brandon André Gordillo — Software Developer · Data &amp; AI Engineering. Building software from idea → production." width="100%">
 </picture>
 
+**Brandon André Gordillo** · Software Developer · Data & AI Engineering.
+
+Construyo **DALOVA**, una plataforma SaaS para negocios y retail. También desarrollo software con **IngenixHub** y trabajo en **NIX**, mi asistente personal de IA.
+
+**[Explorar DALOVA](https://dalova.com.mx)** · **[IngenixHub](https://ingenixhub.com)** · **[GitHub](https://github.com/AndreGMPy)**
+
 <p align="center">
-  <a href="#-about">About</a> ·
-  <a href="#-currently-building">Currently Building</a> ·
-  <a href="#-projects">Projects</a> ·
-  <a href="#-tech-stack">Tech Stack</a> ·
-  <a href="#-current-focus">Current Focus</a> ·
-  <a href="#-contact">Contact</a>
+  <a href="#about">About</a> ·
+  <a href="#currently-building">Currently Building</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#current-focus">Current Focus</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/section-about.svg" width="24" height="24" alt=""> About
+## About
 
-Soy **Brandon André Gordillo**, desarrollador de software y estudiante de **Ingeniería en Datos e Inteligencia Artificial**.
+Estudio **Ingeniería en Datos e Inteligencia Artificial**. Mi enfoque está en **SaaS, IA y software empresarial**: productos que conectan interfaces, lógica de negocio, datos e integraciones.
 
-Construyo productos reales para negocios: desde la interfaz y la lógica de negocio hasta los datos, las integraciones y la experiencia de uso. Mi enfoque está en **SaaS, inteligencia artificial y software empresarial**.
+Trabajo en herramientas para necesidades reales de negocios y retail, desde la operación de un punto de venta hasta experiencias de IA con voz, memoria y automatización.
 
-> Me interesa convertir ideas en herramientas útiles: software que resuelve problemas y llega a producción.
+## Currently Building
 
-## <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/section-building.svg" width="24" height="24" alt=""> Currently Building
+- **DALOVA:** operación comercial, inventario, clientes y mayoreo en una plataforma SaaS, con desktop, PWA e integraciones.
+- **IA aplicada:** DALOVA AI y NIX, con conversación, voz, memoria y automatización como áreas de trabajo.
 
-- **DALOVA** — una plataforma para la operación de negocios y retail.
-- **InGenix Hub** — desarrollo de software, sitios web, aplicaciones e integraciones para negocios.
-- **NIX** — un asistente personal de IA con conversación, automatización, memoria y voz.
-
-## <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/section-projects.svg" width="24" height="24" alt=""> Projects
+## Projects
 
 ### DALOVA
 
+**Mi proyecto principal · SaaS para negocios y retail.**
+
 <a href="https://dalova.com.mx">
-  <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/dalova-card-mobile.svg">
-    <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/dalova-card.svg" alt="DALOVA — Software para negocios y retail. Point of Sale · Inventario · Inteligencia artificial." width="100%">
-  </picture>
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/dalova-card-mobile.svg">
+  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/dalova-card.svg" alt="DALOVA — Software para negocios y retail. Point of Sale, inventario e inteligencia artificial." width="100%">
+</picture>
 </a>
 
-**Mi proyecto principal.** Una plataforma moderna que conecta las áreas de operación de un negocio con herramientas de gestión, automatización e inteligencia artificial.
+- **Operación:** Point of Sale, productos, inventario, clientes, caja y mayoreo.
+- **Información e IA:** estadísticas, DALOVA AI, integraciones y automatización.
+- **Experiencia:** desktop, PWA y arquitectura multi-tenant.
 
-- **Operación comercial:** Point of Sale, productos, inventario, clientes, caja y mayoreo.
-- **Información y automatización:** estadísticas, integraciones y DALOVA AI.
-- **Experiencia de producto:** desktop, PWA y arquitectura multi-tenant.
+<details>
+<summary><strong>Stack de DALOVA</strong></summary>
 
-**Tecnologías relevantes**  
-TypeScript · React · Vite · Next.js · Fastify · PostgreSQL · Tauri · Docker · Cloudflare · R2 · Gemini
+TypeScript · React · Vite · Next.js · Fastify · PostgreSQL · Tauri · Docker · Cloudflare · R2 · Gemini / AI
+
+</details>
 
 [Explorar DALOVA →](https://dalova.com.mx)
 
-### InGenix Hub
+### IngenixHub
 
 <a href="https://ingenixhub.com">
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/ingenix-card-mobile.svg">
-  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/ingenix-card.svg" alt="InGenix Hub — Software e integraciones para negocios." width="100%">
+  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/ingenix-card.svg" alt="IngenixHub — Desarrollo de software e integraciones para negocios." width="100%">
 </picture>
 </a>
 
 Desarrollo de software para negocios: páginas web, aplicaciones e integraciones enfocadas en necesidades reales.
 
-[Visitar InGenix Hub →](https://ingenixhub.com)
+[Conocer IngenixHub →](https://ingenixhub.com)
 
 ### NIX
 
 <picture>
   <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/nix-card-mobile.svg">
-  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/nix-card.svg" alt="NIX — Conversación, automatización, memoria y voz." width="100%">
+  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/nix-card.svg" alt="NIX — Asistente personal de IA con conversación, automatización, memoria y voz." width="100%">
 </picture>
 
-Asistente personal de inteligencia artificial enfocado en **conversación, automatización, memoria y voz**. Un espacio para desarrollar experiencias de IA que conectan lenguaje natural y acciones útiles.
+Asistente personal de IA enfocado en **conversación, voz, memoria y automatización**. Un proyecto para conectar lenguaje natural con acciones útiles.
 
-## <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/section-stack.svg" width="24" height="24" alt=""> Tech Stack
+## Tech Stack
 
 <picture>
-  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/tech-stack-mobile.svg">
-  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/tech-stack.svg" alt="TypeScript · JavaScript · Python · C++ · React · Next.js · Vite · Node.js · Fastify · PostgreSQL · Tauri · Docker · Linux · Cloudflare · GitHub · Gemini / AI" width="100%">
+  <source media="(max-width: 960px)" srcset="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/tech-stack-mobile.svg">
+  <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/tech-stack.svg" alt="Tecnologías por área: TypeScript, JavaScript, Python, C++, React, Next.js, Vite, Node.js, Fastify, PostgreSQL, Tauri, Docker, Linux, Cloudflare, GitHub, VS Code y Gemini." width="100%">
 </picture>
 
 <details>
@@ -82,31 +89,33 @@ Asistente personal de inteligencia artificial enfocado en **conversación, autom
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Languages** | `TypeScript` · `JavaScript` · `Python` · `SQL` · `C / C++` |
-| **Frontend** | `React` · `Next.js` · `Vite` · `HTML` · `CSS` |
-| **Backend** | `Node.js` · `Fastify` · `PostgreSQL` |
-| **Desktop** | `Tauri` |
-| **Infrastructure** | `Docker` · `Linux` · `Cloudflare` · `GitHub` |
-| **AI / Data** | `Gemini` · `Artificial Intelligence` · `Data Analysis` · `Python` |
+| **Languages** | TypeScript · JavaScript · Python · SQL · C / C++ |
+| **Frontend** | React · Next.js · Vite · HTML · CSS |
+| **Backend** | Node.js · Fastify · PostgreSQL |
+| **Desktop** | Tauri |
+| **Infrastructure** | Docker · Linux · Cloudflare · GitHub |
+| **AI / Data** | Gemini · Artificial Intelligence · Data Analysis · Python |
+| **Tools** | VS Code |
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/section-focus.svg" width="24" height="24" alt=""> Current Focus
+## Current Focus
 
-**Software para negocios**  
-Flujos de venta, inventario y gestión conectados en productos SaaS.
+**Software para negocios** — flujos de venta, inventario y gestión conectados en productos SaaS.
 
-**IA aplicada**  
-Asistentes conversacionales, voz e integraciones que permiten automatizar tareas.
+**IA aplicada** — asistentes conversacionales, voz e integraciones para automatizar tareas.
 
-**Datos e ingeniería**  
-Mi formación en Datos e Inteligencia Artificial y su aplicación al desarrollo de productos.
+**Datos e ingeniería** — mi formación en Datos e Inteligencia Artificial y su aplicación al desarrollo de productos.
 
-## <img src="https://raw.githubusercontent.com/AndreGMPy/AndreGMPy/main/assets/section-contact.svg" width="24" height="24" alt=""> Contact
+## GitHub Activity
 
-Puedes conocer mi trabajo y mis productos aquí:
+[Ver mis contribuciones y actividad en GitHub →](https://github.com/AndreGMPy?tab=overview)
 
-**[DALOVA](https://dalova.com.mx)** · **[InGenix Hub](https://ingenixhub.com)** · **[GitHub](https://github.com/AndreGMPy)**
+## Contact
+
+Para conocer mis productos o conversar sobre desarrollo de software para negocios:
+
+**[IngenixHub](https://ingenixhub.com)** · **[DALOVA](https://dalova.com.mx)** · **[GitHub](https://github.com/AndreGMPy)**
 
 ---
 
